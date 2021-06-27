@@ -31,9 +31,20 @@ namespace crudApp.Controllers
 
 			return View();
 		}
-
-		public IActionResult Privacy()
+		
+		
+		public IActionResult Details(string? name)
 		{
+			if (names != null)
+			{
+				foreach (var n in names)
+				{
+					if (n == name)
+					{
+						ViewBag.name = n;
+					}
+				}
+			}
 			return View();
 		}
 
