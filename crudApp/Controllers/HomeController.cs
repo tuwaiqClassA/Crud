@@ -17,9 +17,18 @@ namespace crudApp.Controllers
 		{
 			_logger = logger;
 		}
-
+		List<string> names = new List<string>();
 		public IActionResult Index()
 		{
+			names.Add("Adel");
+			names.Add("Turki");
+			names.Add("Ahmed");
+
+			if (names != null)
+            {
+				ViewData["names"] = names;
+            }
+
 			return View();
 		}
 

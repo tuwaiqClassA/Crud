@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Turki\\.nuget\\packages\\": {}
+    "C:\\Users\\Adel_Kalu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
+      "projectUniqueName": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\crudApp.csproj",
       "projectName": "crudApp",
-      "projectPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
-      "packagesPath": "C:\\Users\\Turki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\obj\\",
+      "projectPath": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\crudApp.csproj",
+      "packagesPath": "C:\\Users\\Adel_Kalu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Turki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adel_Kalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
