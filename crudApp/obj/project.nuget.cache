@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qSyoXIMcuztQmwUwVYFS1UDTHCjWjW7vwu/FYFrgzdfNpKxjNU7dvRVM96wwcth+q14P24zTplvn5Ux0zi9BGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj",
+=======
+  "dgSpecHash": "x/JMv6TgxHKtDrRUeAfZ2Ubs72OFzDDXuNhYsg55TwVpNv+n2hBTCN7ld5qpRKZtkQnmtTCQh98ND6mHvHBZLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\crudApp.csproj",
+>>>>>>> 76b09e5d0c9fc046c7a1be1200a4e730a7229f1e
   "expectedPackageFiles": [],
   "logs": []
 }
