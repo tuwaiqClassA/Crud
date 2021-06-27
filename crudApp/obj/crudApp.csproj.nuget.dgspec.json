@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj": {}
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj": {
+    "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
+        "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj",
         "projectName": "crudApp",
-        "projectPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
+        "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj",
         "packagesPath": "C:\\Users\\Turki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\obj\\",
+        "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turki\\AppData\\Roaming\\NuGet\\NuGet.Config",
