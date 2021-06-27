@@ -8,19 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Turki\\.nuget\\packages\\": {}
+    "C:\\Users\\Adel_Kalu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj",
       "projectName": "crudApp",
-      "projectPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\crudApp.csproj",
+      "projectPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\crudApp.csproj",
       "packagesPath": "C:\\Users\\Turki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turki\\source\\repos\\crudApp\\crudApp\\obj\\",
+      "outputPath": "C:\\Users\\Turki\\Desktop\\Tuwaiq\\Other\\Crud\\crudApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\crudApp.csproj",
+      "projectName": "crudApp",
+      "projectPath": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\crudApp.csproj",
+      "packagesPath": "C:\\Users\\Adel_Kalu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adel_Kalu\\Desktop\\Crud\\crudApp\\obj\\",
+>>>>>>> 76b09e5d0c9fc046c7a1be1200a4e730a7229f1e
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Turki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adel_Kalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
